@@ -1,7 +1,6 @@
 #download {
   .card {
     position: relative;
-
     padding: 3rem 1.5rem 15rem;
 
     & > img {
@@ -18,7 +17,7 @@
     margin-top: 2rem;
   }
 
-  @media (width >= 80em){
+  @media (width >= 80em) {
     .card {
       padding: 8.75rem 5rem;
 
